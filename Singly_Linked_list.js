@@ -1,7 +1,7 @@
 /** 
  * A class to represents a single item of a SinglyLinkedList that can be
  * linked to other Node instances to form a list of linked nodes.
- https://kalkicode.com/data-structure/single-linked-list-visualization
+https://kalkicode.com/data-structure/single-linked-list-visualization
  */
 class ListNode {
     constructor(data) {
